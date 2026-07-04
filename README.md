@@ -11,7 +11,7 @@ A lightweight header library that simplifies C++ syntax.
 ## 🚀 Quick Start
 
 ```cpp
-#include "C-v.1.2.h"
+#include "C-v.1.1.h"
 
 int main() {
     out("Hello, World!", endl);
